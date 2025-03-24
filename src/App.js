@@ -11,7 +11,7 @@ function App() {
     
     try{
       const res = await axios.get("http://localhost:8080/redis/get?key=hi123");
-
+      console.log(res)
       console.log(res.data)
     }catch(err){
       console.error(err)

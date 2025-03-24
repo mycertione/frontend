@@ -8,6 +8,8 @@ function App() {
   // Jira 연동 중
   // 자동화 테스트중(상태변경)
   // 자동화 테스트중(2)
+
+  // 자동화 테스트중(3)
   const getredisTest = async () => {
     
     try{

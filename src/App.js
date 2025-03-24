@@ -5,6 +5,7 @@ import { useEffect } from 'react';
 
 function App() {
 
+  // Jira 연동 중
   const getredisTest = async () => {
     
     try{

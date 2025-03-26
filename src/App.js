@@ -9,6 +9,7 @@ function App() {
   // 자동화 테스트중(상태변경)
   // 자동화 테스트중(2)
   // 자동화 테스트중(이번엔 될듯)
+  // 로그인 구현
   const getredisTest = async () => {
     
     try{

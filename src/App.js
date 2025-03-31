@@ -10,6 +10,7 @@ function App() {
   // 자동화 테스트중(2)
   // 자동화 테스트중(이번엔 될듯)
   // 로그인 구현
+  // 코드리뷰 테스트 주석
   const getredisTest = async () => {
     
     try{

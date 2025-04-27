@@ -1,6 +1,5 @@
 name: Set reviewers based on branch
 
-# PR이 열리거나, 커밋이 추가되거나, 닫힌 PR이 다시 열릴 때마다 실행
 on:
   pull_request:
     types: [opened, synchronize, reopened]
